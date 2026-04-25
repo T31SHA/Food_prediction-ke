@@ -1,5 +1,4 @@
-```python?code_reference&code_event_index=5
-"""# 🌾 Kenyan Food Price Forecaster
+🌾 Kenyan Food Price Forecaster
 
 > **Predictive modeling for food security and economic planning.**
 
