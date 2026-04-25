@@ -1,5 +1,5 @@
 ```python?code_reference&code_event_index=5
-readme_content = """# 🌾 Kenyan Food Price Forecaster
+"""# 🌾 Kenyan Food Price Forecaster
 
 > **Predictive modeling for food security and economic planning.**
 
@@ -18,7 +18,3 @@ An end-to-end time series forecasting pipeline predicting the future market pric
 - `statsmodels` — Time-series modeling (SARIMA)
 - `scikit-learn` — Model evaluation metrics
 - `matplotlib` — Forecasting visualization
-
-##  Quick Start
-
-1. **Clone & Install:**
